@@ -1,4 +1,5 @@
 # Microbit_Reaction_Game
+Lesson 8 of my Intro to Python course with Microbit
 
 Overview: This program tests the player’s reaction time. It counts down from 3 and then randomly displays a target on the screen. The player is supposed to react as fast as possible and the program will scroll their reaction time in milliseconds across the screen.
 
